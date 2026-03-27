@@ -11,7 +11,7 @@ been the user.
 
 - **Languages:** Python, SQL, HTML/CSS, JavaScript
 - **Frameworks:** Flask, Bootstrap, Jinja2
-- **Databases:** MySQL
+- **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, GitHub, VS Code
 - **Methodology:** Agile/SCRUM, sprint planning, user stories
 - **Certified:** Microsoft Azure AI Fundamentals (AI-900)
