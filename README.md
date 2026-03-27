@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hye (HyeJin) Park 👋
 
-<!--
-**Hye-Park-1166465/Hye-Park-1166465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied Computing Postgraduate | AI & Automation | Christchurch, NZ**
 
-Here are some ideas to get you started:
+I turn real-world operational problems into practical tech solutions.
+My journey from running a business to building web applications gives
+me a unique perspective — I understand the user's pain because I've
+been the user.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I work with
+
+- **Languages:** Python, SQL, HTML/CSS, JavaScript
+- **Frameworks:** Flask, Bootstrap, Jinja2
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Methodology:** Agile/SCRUM, sprint planning, user stories
+- **Certified:** Microsoft Azure AI Fundamentals (AI-900)
+
+## 🚀 Featured projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Pest Management Web App** | Full-stack CRUD app built in a SCRUM team | Flask, MySQL, Bootstrap |
+| **Data Cleaning Automation** | Python tool to auto-clean messy CSV/Excel | Python, pandas |
+| **Portfolio Website** | Personal site showcasing my work | HTML, CSS, JS |
+
+## 📚 Currently
+
+- 🎓 Master of Applied Computing @ **Lincoln University, NZ** (Expected 2026)
+- 🤖 Exploring AI-powered automation for public-sector workflows
+- 🏅 FIRST Lego League referee — supporting STEM education in Canterbury
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/hye-park-nz)
+- 📧 actionoptimist2023@gmail.com
+- 📍 Christchurch, New Zealand
