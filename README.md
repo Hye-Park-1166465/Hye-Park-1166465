@@ -20,6 +20,7 @@ been the user.
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **Operational Reporting Automation Dashboard**(https://github.com/Hye-Park-1166465/operational-reporting-automation-dashboard) | Python data cleaning and Power BI dashboard for operational request reporting. | Python, pandas, Excel, Power BI |
 | **Pest Management Web App** | Full-stack CRUD app built in a SCRUM team | Flask, MySQL, Bootstrap |
 | **Data Cleaning Automation** | Python tool to auto-clean messy CSV/Excel | Python, pandas |
 | **Portfolio Website** | Personal site showcasing my work | HTML, CSS, JS |
