@@ -1,4 +1,4 @@
-# Hi, I'm Hye (HyeJin) Park 👋
+# Hi, I'm Hyejin ( Sage ) Park 👋
 
 **Applied Computing Postgraduate | AI & Automation | Christchurch, NZ**
 
