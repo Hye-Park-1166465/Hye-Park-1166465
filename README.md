@@ -1,18 +1,20 @@
 # Hi, I'm Hyejin ( Sage ) Park 👋
 
-**Applied Computing Postgraduate | AI & Automation | Christchurch, NZ**
+**Data Analysis, Data Quality, Process Improvement**
 
-I turn real-world operational problems into practical tech solutions.
-My journey from running a business to building web applications gives
-me a unique perspective — I understand the user's pain because I've
-been the user.
+I turn real-world operational problems into clear data insights and practical solutions.
+
+My background in business operations, combined with hands-on experience in business process mapping and data quality improvement at Selwyn District Council, helps me connect business needs with technology.
+Through my experience in business process mapping and data quality improvement, I have developed an appreciation for the importance of clear standards, shared accountability, and business ownership in effective data governance.
+
+I am particularly interested in connecting people, processes, and data to support better business decisions.
 
 ## 🔧 What I work with
 
 - **Languages:** Python, SQL, HTML/CSS, JavaScript
 - **Frameworks:** Flask, Bootstrap, Jinja2
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Flowingly, Git, GitHub, VS Code
 - **Methodology:** Agile/SCRUM, sprint planning, user stories
 - **Certified:** Microsoft Azure AI Fundamentals (AI-900)
 
